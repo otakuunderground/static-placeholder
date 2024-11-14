@@ -8,7 +8,8 @@
         body {
             font-family: Arial, sans-serif;
             background-color: #f4f4f4;
-            color: #333;
+            /*background-color: #000000;*/
+			color: #333;
             margin: 0;
             padding: 20px;
         }
@@ -20,6 +21,10 @@
 			margin-left: auto;
 			margin-right: auto;
 			width: 50%;
+		}	
+		form {
+			display: grid;
+			place-items: center;
 		}
         .container {
             max-width: 800px;
@@ -39,12 +44,10 @@
         <h2>Reason for the Upgrade</h2>
         <p>We're excited to announce that our evolving ecommerce needs have inspired us to upgrade to a more robust solution in 2025. To ensure a smooth transition, we will be retiring our current platform in 2024 and introducing a temporary placeholder site until our enhanced solution is ready for full deployment in 2025.</p>
         <h2>Questions</h2>
-        <p>If you have any questions, please feel free to contact us at <a href="mailto:info@otakuunderground.com">info@otakuunderground.com</a></p>
-		<form action="mailto:info@otakuunderground.com">
-			<button>Email me</button>
-		</form>
+        <p>If you have any questions, please feel free to contact us using the button below to email us</p>
+		
 		<form action="javascript:location.href=('mail' + 'to' + ':info' + '@otakuunderground.com')">
-			<button>Email me</button>
+			<button>Contact Otaku Underground</button>
 		</form>
     </div>
 </body>
