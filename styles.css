@@ -41,26 +41,4 @@
 		.menu a:hover {
 			background-color: #575757;
 		} 
-		.myButton {
-			box-shadow: 0px 0px 0px 2px #3dc21b;
-			background-color:#d41e24;
-			border-radius:10px;
-			border:1px solid #18ab29;
-			display:inline-block;
-			cursor:pointer;
-			color:#ffffff;
-			font-family:Arial;
-			font-size:19px;
-			font-weight:bold;
-			padding:8px 44px;
-			text-decoration:none;
-			text-shadow:0px 1px 0px #2f6627;
-		}
-		.myButton:hover {
-			background-color:#f7ec21;
-		}
-		.myButton:active {
-			position:relative;
-			top:1px;
-		}
 	</style>
