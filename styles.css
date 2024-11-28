@@ -16,10 +16,10 @@
 			margin-right: auto;
 			width: 50%;
 		}	
-		/* form {
+		form {
 			display: grid;
 			place-items: center;
-		} */
+		}
         .container {
             max-width: 800px;
             margin: 0 auto;
