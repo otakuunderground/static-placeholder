@@ -1,11 +1,11 @@
 	<style>	
-		body {
+		/* body {
 			background-color: black;
             font-family: Arial, sans-serif;
 			color: #333;
             margin: 0;
             padding: 20px;
-        }
+        } */
 		
         h1 {
             color: #d62728;
@@ -21,7 +21,7 @@
 			place-items: center;
 		}
 		
-		body.main {background-color: black;}
+		.main {background-color: black;}
 				
         .container {
             max-width: 800px;
