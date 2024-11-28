@@ -21,7 +21,7 @@
 			place-items: center;
 		}
 		
-		.main {background-color: black;}
+		body.main {background-color: black;}
 				
         .container {
             max-width: 800px;
