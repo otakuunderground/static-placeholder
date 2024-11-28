@@ -7,7 +7,10 @@
             padding: 20px;
         } */
 		
-		body#body {
+		body {
+			-webkit-appearance: none;
+			-moz-appearance: none;
+			appearance: none;
 			display: block;
 			margin: 0;
 			background-color: black !important;
