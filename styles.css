@@ -8,7 +8,10 @@
         } */
 		
 		body {
+			display: block;
+			margin: 0;
 			background-color: black !important;
+			font-family: Arial, sans-serif;
         }
 		
         h1 {
