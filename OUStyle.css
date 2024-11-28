@@ -20,6 +20,8 @@
 			display: grid;
 			place-items: center;
 		}
+		
+		.main {background-color: black;}
 				
         .container {
             max-width: 800px;
