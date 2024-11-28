@@ -19,6 +19,9 @@
 			display: grid;
 			place-items: center;
 		}
+		
+		element.style {background-color: black;}
+		
         .container {
             max-width: 800px;
             margin: 0 auto;
