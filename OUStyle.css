@@ -9,7 +9,7 @@
 			margin-right: auto;
 			width: 50%;
 		}*/
-		form {
+		.contact {
 			display: grid;
 			place-items: center;
 		}
