@@ -2,13 +2,13 @@
         /*h1 {
             font-weight: bold;
 			color: rgb(212,30,37);
-        }*/
+        }
 		img {
 			display: block;
 			margin-left: auto;
 			margin-right: auto;
 			width: 50%;
-		}	
+		}*/
 		form {
 			display: grid;
 			place-items: center;
@@ -19,6 +19,12 @@
             margin: 0;
             padding: 0;
         }
+		.logo {
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
+			width: 50%;	
+		}
         .container {
             max-width: 800px;
             margin: 0 auto;
