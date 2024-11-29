@@ -1,12 +1,4 @@
 	<style type="text/css">
-		.main, body {
-			background-color: grey;
-            font-family: Arial, sans-serif;
-			color: #333;
-            margin: 0;
-            padding: 0;
-        }
-		
         h1 {
             color: #d62728;
         }
@@ -20,7 +12,13 @@
 			display: grid;
 			place-items: center;
 		}
-						
+		.main {
+			background-color: grey;
+            font-family: Arial, sans-serif;
+			color: #333;
+            margin: 0;
+            padding: 0;
+        }
         .container {
             max-width: 800px;
             margin: 0 auto;
