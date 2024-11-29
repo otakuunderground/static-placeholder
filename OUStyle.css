@@ -1,8 +1,8 @@
 	<style type="text/css">
-        h1 {
+        /*h1 {
             font-weight: bold;
 			color: rgb(212,30,37);
-        }
+        }*/
 		img {
 			display: block;
 			margin-left: auto;
@@ -16,7 +16,6 @@
 		.main {
 			background-color: rgb(23,37,56);
             font-family: Arial, sans-serif;
-			/* color: #333; */
             margin: 0;
             padding: 0;
         }
@@ -28,6 +27,10 @@
             border-radius: 10px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
+		.announcement{
+		    font-weight: bold;
+			color: rgb(212,30,37);	
+		}
 		.menu {
 			display: flex;
 			background-color: #333; 
