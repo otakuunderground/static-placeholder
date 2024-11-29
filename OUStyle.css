@@ -1,6 +1,7 @@
 	<style type="text/css">
         h1 {
-            color: rgb(212,30,37);
+            font-weight: bold;
+			color: rgb(212,30,37);
         }
 		img {
 			display: block;
